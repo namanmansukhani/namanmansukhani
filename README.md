@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a programmer in Pittsburgh who loves customizing dotfiles. I'm currently a sophomore at CMU studying Information Systems and Computer Science.
+I'm a programmer in Pittsburgh who loves customizing dotfiles. I'm currently studying Computer Science at CMU.
 
 <!--
 **namanmansukhani/namanmansukhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
